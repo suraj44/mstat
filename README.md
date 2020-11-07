@@ -38,6 +38,7 @@ After installing golang and cloning this repository, download all the go depende
 
     $ cd mstat
     $ go get -d ./...
+    $ make
 
 Then proceed with make and installation. If you want to be able to uninstall
 `mstat` later, instead of using `make install`, use the command below
